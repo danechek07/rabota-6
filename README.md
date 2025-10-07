@@ -24,8 +24,7 @@
 ### Блок-схема
 <img width="2010" height="992" alt="chema_6" src="https://github.com/user-attachments/assets/1d8fcf92-1f7e-4cb8-a241-24909f294a98" />
 
-([chema_6.drawio](https://github.com/danechek07/rabota-3/blob/main/chema_3.png))
-
+[chema_6.drawio](https://github.com/danechek07/rabota-6/blob/main/chema_6.png)
 ## 2. [Реализация программы](https://github.com/danechek07/rabota-6/blob/main/%236.c)
 
 
